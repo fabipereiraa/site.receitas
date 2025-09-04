@@ -1,7 +1,6 @@
-## Receita de Bolo de Chocolate 
+333 Receita de Macarrão com Queijo
 
-- 2 xícaras de farinha
-- 3 ovos
-- 1 xícara de açúcar
-- 1 xícara de chocolate em pó
-- 1 xícara de leite 
+- 1 pacote de macarrão
+- 200g de queijo ralado
+- 1 copo de leite
+- sal à gosto
